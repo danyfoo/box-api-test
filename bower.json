@@ -1,0 +1,21 @@
+{
+  "name": "box-api-test",
+  "authors": [
+    "Daniel Rivera Guzman <drivera@xentral.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.7"
+  }
+}
